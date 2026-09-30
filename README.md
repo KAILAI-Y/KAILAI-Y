@@ -16,7 +16,6 @@ rule-based checks, retrieval-backed reporting, and tested application workflows.
 | [Credit Portfolio Review Assistant](https://github.com/KAILAI-Y/credit-portfolio-review-assistant) | Historical credit-risk analysis and a Streamlit review application, with a shared deterministic calculation core, automated tests, and citation-checked Claude report drafts. |
 | [Healthcare Voice Agent](https://github.com/KAILAI-Y/ai-voice-agent) | A scheduling proof of concept using OpenAI Realtime, WebRTC, Next.js, and a FastAPI mock EMR with synthetic patient data. |
 | [PatentInsight](https://github.com/KAILAI-Y/PatentInsight) | Patent retrieval, technology-trend visualization, and AI-assisted PDF reporting with a Django backend. |
-| [Commit Critic](https://github.com/KAILAI-Y/commit-critic) | A Python CLI that reviews Git history and staged changes to critique and suggest commit messages using Gemini. |
 | [Cost-Aware Engulfing Analyzer](https://github.com/KAILAI-Y/cost-aware-engulfing-analyzer) | Reproducible futures-signal analysis, parameter scans, and transaction-cost sensitivity with Python and an interactive interface. |
 
 ## Tools I work with
