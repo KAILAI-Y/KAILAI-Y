@@ -1,8 +1,7 @@
 # Hi, I'm Kailai Yang
 
 Software engineer focused on Python automation, API integrations, and applied AI.
-Based in Toronto, with a Master of Information from the University of Toronto
-and a B.Eng. in Software Engineering from Ontario Tech University.
+Based in Toronto.
 
 I build tools that turn data into reviewable decisions: automated collection,
 rule-based checks, retrieval-backed reporting, and tested application workflows.
