@@ -7,7 +7,7 @@ and a B.Eng. in Software Engineering from Ontario Tech University.
 I build tools that turn data into reviewable decisions: automated collection,
 rule-based checks, retrieval-backed reporting, and tested application workflows.
 
-[Portfolio](https://kailai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kailai-yang-3868661b0/)
+[LinkedIn](https://www.linkedin.com/in/kailai-yang-3868661b0/)
 
 ## Selected projects
 
